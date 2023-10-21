@@ -3,7 +3,7 @@
 
 <body>
 	<main>
-		
+	<ul>	
 <h2><li> Introduction </li></h2>
     <li>My website is the introduction about Per Scholas Cohort. There is a link so that everyone can easily to find out program in this course </li>
      
@@ -22,7 +22,7 @@
 	   </ul>
 </ol>
     
-	  
+	  </ul>
 	</main>	
   
 
