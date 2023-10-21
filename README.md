@@ -5,7 +5,7 @@
 	<main>
 	<ul>	
 <h2><li> Introduction </li></h2>
-    <p>My website is the introduction about Per Scholas Cohort. There is a link so that everyone can easily to find out program in this course </p>
+    <p>My website is the introduction about Per Scholas Cohort. There is a link so that everyone can easily to find out course as well as talented teacher in this course </p>
      
 <h2><li> How to get the course</li></h2> 
 <ol>
