@@ -30,14 +30,12 @@
 	   <h3>2. CSS</h3> 
 	       <ul>
 		   <li>Inline, internal, and external styling (link to website of PerschoLas and videos and images; Use five different CSS selector; some colors that complement each other (in the username button).</li> 
-     		   <li> dsds </li>
-		  
+     		   <li> dsds </li>  
 	   </ul> 
     <h3>3. JavaScript</h3> 
           <ul>
 		   <li>External scripts, Use variables, if statements, one form of collections, functions/callbacks, and events.</li>
      		   <li>.. </li>
-		  
 	   </ul>
   </ol>
 
