@@ -20,7 +20,7 @@
 	   </ul>
 </ol>
  <h2><li> Technical skills </li></h2>
-  		
+  <p> in this page, i used skills as followings:  </p>		
        <ol>
 	   <h3>1.  HTML</h3>
 	<ul>
