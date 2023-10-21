@@ -32,7 +32,7 @@
 		   <li>Inline, internal, and external styling (link to website of PerschoLas and videos and images; Use five different CSS selector; some colors that complement each other</li> 
 		  
 	   </ul>
-	    <h3>2.JavaScript</h3>
+	    <h3>3.JavaScript</h3>
 	   <ul>
 		   <li>External scripts, Use variables, if statements, one form of collections, functions/callbacks, and events.</li> 
 		  
