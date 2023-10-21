@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Register</title>
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
+       <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+          
+        <link rel="stylesheet" type="text/css" href="../css/sba_2.css" />
+        <script type="text/javascript" src="../js/sba_2.js"></script>
+    </head>
+<body>
+  <div class="container">  
+    <h5> If you already have the account, please sign in</h5>
+    <a href="sba_3.html" >Sign in</a>     
+        
+         <form action="sba_2.html" name="myForm" onsubmit="return(validate());"  
+            method="POST" id="formone"> 
+    
+            <h3>Register</h3>
+            <p>To be able to use all features of course you 
+                will require an account. The form below will 
+                allow you to create a new account
+                 if you don't have one yet.</p>
+
+             Username<br>
+            <input type="text" name="username" ><br>
+             Email<br>
+             <input type="text" name="email"><br>
+             Retype email<br>
+           <input type="text" name="retype_email" ><br>
+             Create a password<br>
+           <input type="password" name="password"><br>
+            Retype password<br>
+            <input type="password" name="retype_password" ><br>
+        
+            <label>
+            <input type="checkbox" name="terms">By signing up to this course you agree to your
+             <a href="#service">Terms of Service</a> and <a href="#policy">Privacy Policy</a>
+             </label>
+             <div class="button">
+               
+         <input type="submit" class="button" value="Set Up Account"  >
+            </div> 
+         </form>
+        
+
+
+
+<h5> If you are not ready, please find out more about Per Scholas</h5>
+<a href="sba_1.html">back to introduction Per Scholas</a>
+
+</div>
+</body>
+</html>
+
