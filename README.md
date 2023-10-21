@@ -4,10 +4,9 @@
 <body>
 	<main>
 	<ul>	
-<h2><li> Introduction </li></h2>
-    <p>My website is the introduction about Per Scholas Cohort. There is a link so that everyone can easily to find out course as well as talented teacher in this course </p>
      
-<h2><li> How to get the course</li></h2> 
+<h2><li> Introduction about the purpose of this small website</li></h2> 
+  <p>My website is the introduction about Per Scholas Cohort. There is a link so that everyone can easily to find out course as well as talented teacher in this course. </p>
 <ol>
 	   <h3>1.  Register to open your account</h3>
 	   <ul>
@@ -20,7 +19,25 @@
 		   <li>Besides that, if you want to find out more about the cohort, you can come back the web page to understand all programme.</li>
 	   </ul>
 </ol>
-    
+ <h2><li> Technical skills </li></h2>
+  		<p> in this page, i used skills as followings:  </p>
+    <ol>
+	   <h3>1.  HTML</h3>
+	   <ul>
+		   <li>  10 different HTML tags, Use HTML tables, 2 uses for forms, Dropped Down Menu, use different types of content in the form of text, images, videos; Use regex validation. </li>
+		  
+	   </ul>
+	   <h3>2. CSS</h3>   <ul>
+		   <li>Inline, internal, and external styling (link to website of PerschoLas and videos and images; Use five different CSS selector; some colors that complement each other</li> 
+		  
+	   </ul>
+	    <h3>2.JavaScript</h3>
+	   <ul>
+		   <li>External scripts, Use variables, if statements, one form of collections, functions/callbacks, and events.</li> 
+		  
+	   </ul>
+</ol>
+ 
 	 
    
    </ul>
