@@ -9,13 +9,9 @@
 </head>
 
 <body>
-	<header>
-   
-		<h1>Hello! I'm Hoa Nguyen</h1>
-     <img src="hinhhoa1.jpg" alt="my picture" class="center">
-	</header>
+	
 	<main>
-		<ul>
+		
 <h2><li> Introduction </li></h2>
     <p>My website is the introduction about Per Scholas Cohort. There is a link so that everyone can easily to find out program in this course </p>
      
