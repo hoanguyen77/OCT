@@ -23,10 +23,10 @@
   		<p> in this page, i used skills as followings:  </p>
     <ol>
 	   <h3>1.  HTML</h3>
-	   <ul>
+	
 		   <li>  10 different HTML tags, Use HTML tables, 2 uses for forms, Dropped Down Menu, use different types of content in the form of text, images, videos; Use regex validation. </li>
 		  
-	   </ul>
+	  
 	   <h3>2. CSS</h3>  
     	   <ul>
 		   <li>Inline, internal, and external styling (link to website of PerschoLas and videos and images; Use five different CSS selector; some colors that complement each other.</li> 
