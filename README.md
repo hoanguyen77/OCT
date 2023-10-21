@@ -26,16 +26,15 @@
 	   <ul>
 		   <li>10 different HTML tags, Use HTML tables, 2 uses for forms, Dropped Down Menu, use different types of content in the form of text, images, videos; Use regex validation. </li>
      		   <li> .</li>
-		  
-	   </ul>
-	   <h3>2. CSS</h3>  
-    	   <ul>
+	   </ul> 
+	   <h3>2. CSS</h3> 
+	       <ul>
 		   <li>Inline, internal, and external styling (link to website of PerschoLas and videos and images; Use five different CSS selector; some colors that complement each other (in the username button).</li> 
      		   <li> dsds </li>
 		  
-	   </ul>
-	    <h3>3. JavaScript </h3>
-	   <ul>
+	   </ul> 
+    <h3>3. JavaScript</h3> 
+          <ul>
 		   <li>External scripts, Use variables, if statements, one form of collections, functions/callbacks, and events.</li>
      		   <li>.. </li>
 		  
