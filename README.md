@@ -23,7 +23,7 @@
 	<ol>
 	   <h3>1. Register to open your account </h3>
 	  
-		   <li> Enter your username (more than 3 characters), email (available email) and the password (at least 6 chracters) and Click “Set up account ” to access your account.</li>
+		   <li> Enter your username (more than 3 characters), email (available email) and the password (at least 6 chracters) and Click “Set up account ” to access your account. In this page: if you are not ready, you can come back to Per Scholas page to discover more, if you are already have account, please come to sign in page.</li>
 
   
 	 <h3>2. Login to account </h3>	  
