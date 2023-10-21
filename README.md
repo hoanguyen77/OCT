@@ -1,19 +1,11 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width">
-	<title>Per Scholas: professional Cohort</title>
-	<link href="style.css" rel="stylesheet" type="text/css" />
-</head>
-
 <body>
-	
 	<main>
 		
 <h2><li> Introduction </li></h2>
-    <p>My website is the introduction about Per Scholas Cohort. There is a link so that everyone can easily to find out program in this course </p>
+    <li>My website is the introduction about Per Scholas Cohort. There is a link so that everyone can easily to find out program in this course </li>
      
 <h2><li> How to get the course</li></h2> 
 <ol>
