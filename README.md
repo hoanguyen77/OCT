@@ -5,7 +5,7 @@
 	<main>
 	<ul>	
      
-<h2><li> Introduction about the purpose of this small website</li></h2> 
+<h2><li> Introduction about this small website</li></h2> 
   <p>My website is the introduction about Per Scholas Cohort. There is a link so that everyone can easily to find out course as well as talented teacher in this course. </p>
 <ol>
 	   <h3>1.  Register to open your account</h3>
