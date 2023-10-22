@@ -40,7 +40,7 @@
 	   
 
   <ul>
-	  <p>you can see in Github account</p>
+	  <p>My Github account</p>
   	    <li><a href="https://github.com/hoanguyen77/OCT.git"> GitHub </a> </li>
     </ul>  
         
