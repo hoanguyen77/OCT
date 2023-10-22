@@ -24,7 +24,7 @@
        <ol>
 	   <h3>1.  HTML</h3>
 	   <ul>
-		   <li>10 different HTML tags, Use HTML tables, 2 uses for forms, Dropped Down Menu, use different types of content in the form of text, images, videos; Use regex validation. </li>
+		   <li>10 different HTML tags, Use HTML tables, 2 uses for forms (form for register page and form for sign in page), Dropped Down Menu (forgot username or passwords), use different types of content in the form of text, images, videos; Use regex validation (username button). </li>
      		   <li> .</li>
 	   </ul> 
 	   <h3>2. CSS</h3> 
@@ -34,7 +34,7 @@
 	   </ul> 
     <h3>3. JavaScript</h3> 
           <ul>
-		   <li>External scripts, Use variables, if statements, one form of collections, functions/callbacks, and events.</li>
+		   <li>External scripts, Use variables, if statements, loops, form of collections (button show courses), functions/callbacks, and events.</li>
      		   <li>.. </li>
 	   </ul>
   </ol>
