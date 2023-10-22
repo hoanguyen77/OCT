@@ -25,17 +25,14 @@
 	   <h3>1.  HTML</h3>
 	   <ul>
 		   <li>10 different HTML tags, Use HTML tables, 2 uses for forms (form for register page and form for sign in page), Dropped Down Menu (forgot username or passwords), use different types of content in the form of text, images, videos; Use regex validation (username button). </li>
-     		 
 	   </ul> 
 	   <h3>2. CSS</h3> 
 	       <ul>
-		   <li>Inline, internal, and external styling (link to website of PerschoLas and videos and images; Use five different CSS selector; some colors that complement each other (in the username button).</li> 
-     		  
+		   <li>Inline, internal, and external styling (link to website of PerschoLas and videos and images; Use five different CSS selector; some colors that complement each other (in the username button).</li>   
 	   </ul> 
     <h3>3. JavaScript</h3> 
           <ul>
-		   <li>External scripts, Use variables, if statements, loops, form of collections (button show courses), functions/callbacks, and events.</li>
-     		  
+		   <li>External scripts, Use variables, if statements, loops, form of collections (button show courses), functions/callbacks, and events.</li>  
 	   </ul>
   </ol>
 
