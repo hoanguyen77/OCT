@@ -37,12 +37,10 @@
   </ol>
 
  
-	   
+	
 
   <ul>
-
-   
-	  <p>My Github account</p>
+	 <h6>My Github account</h6>
   	    <li><a href="https://github.com/hoanguyen77/OCT.git"> GitHub </a> </li>
     </ul>  
         
