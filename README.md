@@ -37,10 +37,7 @@
   </ol>
 
  
-	 
-
-
-   
+	   
 
   <ul>
 	  <p>you can see in Github account</p>
