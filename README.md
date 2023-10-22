@@ -42,11 +42,10 @@
 
    
 
-  
-	 <p>you can see in Github account</p>
-  
-	    <li><a href="https://github.com/hoanguyen77/hoanguyen77/"> GitHub </a> </li>
-      
+  <ul>
+	  <p>you can see in Github account</p>
+  	    <li><a href="https://github.com/hoanguyen77/OCT.git"> GitHub </a> </li>
+    </ul>  
         
 
 
